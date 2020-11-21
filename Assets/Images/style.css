@@ -24,3 +24,7 @@ h1 {
 h2 {
   color: purple;
 }
+
+#picId {
+  font-weight: bold;
+}
