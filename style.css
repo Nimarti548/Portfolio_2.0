@@ -1,0 +1,32 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-fluid {
+  margin-right: 15px;
+}
+
+body {
+  background-image: url("https://i.imgur.com/9m1bRvm.png");
+  background-repeat: repeat-x;
+}
+
+.container {
+  background-color: white;
+  margin-top: 40px;
+  border: 60px;
+  border-color: rebeccapurple;
+}
+
+h1 {
+  color: purple;
+  font-weight: bolder;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+}
+
+h2 {
+  color: purple;
+}
