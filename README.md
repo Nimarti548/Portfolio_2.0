@@ -1,28 +1,46 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Unit 08 Project 1 Homework: Professional Materials
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
+## Updated Portfolio
 
-#About Page
 
-First I found a functioning navbar in bootstrap and copied the code to all three of the html pages.
-To push the links to the right of the page I changed the margin right to margin left auto.
-I then created a container to put in all of my information.
-Inside the container I created two rows one for the About Me! and one for the img and the text.
-For the container I added a little in line styling to change the look by adding a colored border and some padding.
-Finally I added a container at the bottom for the sticky footer which needed some text alignment and background color.
+My updated portfolio:
 
-#Portfolio Page
+1. Displays my full name, email, and phone number
 
-For the Portfolio page I also created a container with the same in line styling elements to keep the pages uniform.
-Inside the container I created two columns within one row in the container and added place holder imgs.
+2. Has links to your GitHub profile and LinkedIn profile
 
-#Contact Page
+3. Has a link to a downloadable PDF of your resume
 
-For the contact page I found a functioning contact page on bootstrap that I modified for my desired look.
-For the container I repeted the in line styling from the previous pages again, to keep everything uniform.
+4. Displays at least 2 examples of my work from either deployed projects or homeworks. Each project has:
 
-#Style.css
-In the css page I changed all the font to Verdana.
-I gave the img on the about page some padding so the text was not right on top of it.
-I gave the background of each html page a background img that I got from imgur.com and had it repeat on its x axis to stretch it out the length of the page.
-I changed the header colors for each page to Purple.
+    * Project title
+
+    * Link to the deployed version
+
+    * Link to the GitHub repository
+
+    * Screenshot of the deployed application
+
+
+## Updated GitHub Profile
+
+
+My GitHub profile contains:
+
+1. Professional profile picture
+
+2. Biography
+
+3. Your current location
+
+4. Email address
+
+5. Link to my deployed portfolio
+
+6. At least 2 pinned repositories
+
+
+###  Updated LinkedIn
+
+
+Updated my LinkedIn Profile with a strong bio statement, a professional photo, and links to my Github and portfolio.
